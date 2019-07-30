@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+body .home {
+  height: 800px;
+  background-image: url(../image/15235552_632775446904877_6596808646808139309_o.jpg);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+body .row {
+  width: 100%;
+  width: 80%;
+  margin: 0 auto;
+}
+
+body .row .logo {
+  margin-top: 10px;
+}
+
+body .row .nav-link {
+  margin-top: 1em;
+  text-decoration: none;
+  color: black;
+}
+
+body .row .nav-link:hover {
+  border-bottom: 1px solid green;
+}
+/*# sourceMappingURL=main.css.map */
